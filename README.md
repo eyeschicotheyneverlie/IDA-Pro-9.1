@@ -1,4 +1,4 @@
-# 🔍 IDA Pro 9.1 Cr*cked
+# 🔍 IDA Pro 9.1 Crâcked
 
 > A powerful reverse engineering tool for disassembling, debugging, and analyzing binary files.
 
